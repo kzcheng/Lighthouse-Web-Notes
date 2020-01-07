@@ -6,5 +6,5 @@ This repository contains all of the notes taken by [Kevin Cheng](https://github.
 
 ## Table of Contents
 
-* [Week 1](/w1/)
-  * [Day 1](/w1/d1/)
+* [Week 1](/w1)
+  * [Day 1](/w1/d1)
