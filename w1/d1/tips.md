@@ -1,4 +1,11 @@
-### Tips
+## Example - Read Command Args
+```javascript
+for (let j = 0; j < process.argv.length; j++) {
+  console.log(j + ' -> ' + (process.argv[j]));
+}
+```
+
+## Tips for Lunch.js
 
 Try experimenting with the comparison operators (`<`, `>`, `===`, etc.) in the node REPL, which you can launch using the `node` command in Vagrant.
 
