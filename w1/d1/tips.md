@@ -19,5 +19,3 @@ function whatToDoForLunch(hungry, availableTime) {
   console.log("availableTime is", availableTime);
 }
 ```
-
-Test if git works
